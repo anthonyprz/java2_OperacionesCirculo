@@ -1,0 +1,11 @@
+public class Circulo {
+
+
+public int double Area()  double radio {
+
+	int result = 0;
+	result = 3.1416 *Math.pow(radio,2);;
+	Math.PI;
+
+}
+}
